@@ -1,0 +1,17 @@
+/*
+    副词性/状语从句
+*/
+// 副词：在一个句子中除了主语、谓语、宾语、宾补、表语 和 定语 外的成份
+副词：那些修饰动词、adj和整个句子的可有可无的成分叫做副词
+结构：完整句子1 + 连词 + 完整句子2
+状语从句的类型：
+	1、时间：while/when/as/since/after/before/until/whenever/each time/every time/by the time(到。。时候)/next time/the first time/the last time \
+                 as soon as/the moment/the minute/once/hardly...when/no sooner...than (一...就..)            
+	2、地点：where/wherever
+	3、原因：beacause/now that/in that
+	4、目的：so that/such that
+	5、条件：if/as long as
+	6、结果：so
+	7、比较：than
+	8、让步：although
+	9、方式：as
